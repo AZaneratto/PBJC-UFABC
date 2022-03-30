@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: PagEnfor
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: f95a23453c1e11a4c8a3cda3ef578e2f, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 8300000, guid: 95f9346e4e63fe045b1f42bfec772a3b, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 6f8e6acb5ebd7ac4183a41b761eb87b2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ce325a7f91baeb347b103ed2a3832437, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
